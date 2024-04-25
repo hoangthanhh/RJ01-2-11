@@ -1,0 +1,36 @@
+.container {
+  padding: 20px;
+  margin: 30px;
+  background-color: #e3eff7;
+}
+
+.first {
+  color: blue;
+  font-size: 25px;
+}
+
+
+
+svg {
+  width: 25px;
+  height: 25px;
+}
+
+.info {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+
+}
+
+p {
+  display: flex;
+  margin-left: 16px;
+  margin-right: 16px;
+  font-size: 20px;
+}
